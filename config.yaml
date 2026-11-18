@@ -41,7 +41,7 @@ source: 'https://manugil.github.io/2026-11-17-gitcodev/'
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'm.g.garciaalvarez@tudelft.nl'
+contact: 'wmotion.eu@gmail.com'
 
 # Navigation ------------------------------------------------
 #
@@ -68,6 +68,7 @@ contact: 'm.g.garciaalvarez@tudelft.nl'
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
+- responsibilities-roles-workflows.md
 - responsibilities.md
 
 # Information for Learners
