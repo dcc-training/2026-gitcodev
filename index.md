@@ -2,7 +2,13 @@
 site: sandpaper::sandpaper_site
 ---
 
-This is a new lesson built with [The Carpentries Workbench][workbench]. 
+::::::::::::::::::::::::::::::::::::::: prereq
+
+- Editing a text-only file using an editor such as `nano`, `vim`, `vi`
+- Unix Shell
+- Git
+
+::::::::::::::::::::::::::::::::::::::::::::::
 
 
 [workbench]: https://carpentries.github.io/sandpaper-docs
