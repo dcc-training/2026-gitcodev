@@ -68,6 +68,7 @@ contact: 'm.g.garciaalvarez@tudelft.nl'
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
+- responsibilities.md
 
 # Information for Learners
 learners: 
@@ -82,5 +83,3 @@ profiles:
 #
 # This space below is where custom yaml items (e.g. pinning
 # sandpaper and varnish versions) should live
-
-
